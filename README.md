@@ -188,10 +188,4 @@ We welcome and appreciate contributions from the community to enhance and improv
 
 5. Submit the pull request.
 
-## Code Review
 
-Your contribution will be reviewed by the project maintainers. Be prepared to address any feedback or suggestions to ensure the quality and compatibility of your changes.
-
-## Thank You!
-
-Thank you for considering contributing to the eCommerce Platform Project. Your efforts help make this project better for everyone. If you have any questions or need assistance, feel free to reach out through the issue tracker or discussions. Happy coding🤩!
